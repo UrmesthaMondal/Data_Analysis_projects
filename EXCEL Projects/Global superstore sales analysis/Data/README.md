@@ -13,8 +13,8 @@ In this project, I have created a dashboard for a global superstore to have a qu
 - Total sales by region
 
   ## Dasboard preview
-  ![Dashboard Preview](![dashboard](https://github.com/user-attachments/assets/6a02cdae-db82-479e-aef5-b8bf7e32edb8)
-)
+ ![dashboard](https://github.com/user-attachments/assets/cc5eab83-85da-4a41-9f10-44a6edecc18a)
+
 
   ## The Dataset:
   [link](https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset)
