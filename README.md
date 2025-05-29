@@ -11,7 +11,7 @@ Data analysis identifies inefficiencies and bottlenecks in business processes, p
 Here are some of my portfolio projects that I have built to gain experience in Data Analytics that you can find in this repository.
 
 ### Tools used:
--Excel
--Python (Pandas,Numpy,Matplotlib,Scikit-learn)
--SQL
--Power bi(for data visualization)
+- Excel
+- Python(Pandas,Numpy,Matplotlib)
+- SQL
+- Power bi(for data visualization)
