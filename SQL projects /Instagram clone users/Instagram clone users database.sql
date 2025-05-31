@@ -11,7 +11,7 @@ CREATE TABLE users(
 	created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
--- Photos Table
+-- Photos Table:
 CREATE TABLE photos(
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	image_url VARCHAR(355) NOT NULL,
@@ -31,7 +31,7 @@ CREATE TABLE comments(
 	CONSTRAINT fk_photo_id_comments FOREIGN KEY(photo_id) REFERENCES photos(id)
 );
 
--- Likes Table
+-- Likes Table:
 CREATE TABLE likes(
 	user_id INT NOT NULL,
 	photo_id INT NOT NULL,
@@ -41,7 +41,7 @@ CREATE TABLE likes(
 	CONSTRAINT pk_user_id_photo_id_likes PRIMARY KEY(user_id,photo_id)
 );
 
--- Follows Table
+-- Follows Table:
 CREATE TABLE follows(
 	follower_id INT NOT NULL,
 	followee_id INT NOT NULL,
@@ -51,14 +51,14 @@ CREATE TABLE follows(
 	CONSTRAINT pk_follower_id_followee_id_follows PRIMARY KEY(follower_id,followee_id)
 );
 
--- Tags Table
+-- Tags Table:
 CREATE TABLE tags(
 	id INT AUTO_INCREMENT PRIMARY KEY,
 	tag_name VARCHAR(255) UNIQUE NOT NULL,
 	created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
--- Photo_Tags Table
+-- Photo_Tags Table:
 CREATE TABLE photo_tags(
 	photo_id INT NOT NULL,
 	tag_id INT NOT NULL,
