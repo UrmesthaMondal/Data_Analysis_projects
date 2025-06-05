@@ -12,6 +12,6 @@ Here are some of my portfolio projects that I have built to gain experience in D
 
 ### Tools used:
 - Excel
-- Python(Pandas,Numpy,Matplotlib)
+- Python(Pandas,Numpy,Matplotlib,Seaborn)
 - SQL
 - Power bi(for data visualization)
