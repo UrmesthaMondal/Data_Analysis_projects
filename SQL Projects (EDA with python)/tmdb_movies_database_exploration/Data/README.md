@@ -22,7 +22,7 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 - Use SQL window functions for ranking and consistency analysis
 
 #### Dataset
-## 📁 Dataset
+
 
  [TMDB Movies Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
