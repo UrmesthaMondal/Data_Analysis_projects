@@ -23,10 +23,6 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 - Visualizations of correlations between runtime, rating, and revenue
 - Use SQL window functions for ranking and consistency analysis
 
- ##### Metrics visualized
- - Popularity by movies and actors
- - Total budget and profit by years and movies
- - profit by production countries and companies
 
    ###### Dashboard Preview
    ![Dashboard](https://github.com/user-attachments/assets/d6e7b53b-a87a-4af1-af2c-d81dfaa39f03)
