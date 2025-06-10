@@ -33,7 +33,8 @@ The final two columns ending with “_adj” show the budget and revenue of the 
  - profit by production countries and companies
 
    ###### Dashboard Preview
-   
+   [!Dashboard](![image](https://github.com/user-attachments/assets/d6e7b53b-a87a-4af1-af2c-d81dfaa39f03))
+
 
 
 
