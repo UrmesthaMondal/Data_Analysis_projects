@@ -27,6 +27,9 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 
  [TMDB Movies Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
+ ##### Metrics visualized
+ -
+
 
 
 
