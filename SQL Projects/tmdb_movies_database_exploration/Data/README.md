@@ -28,7 +28,12 @@ The final two columns ending with “_adj” show the budget and revenue of the 
  [TMDB Movies Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
  ##### Metrics visualized
- -
+ - Popularity by movies and actors
+ - Total budget and profit by years and movies
+ - profit by production countries and companies
+
+   ###### Dashboard Preview
+   
 
 
 
