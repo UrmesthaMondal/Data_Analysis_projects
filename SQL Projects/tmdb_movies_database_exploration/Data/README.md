@@ -15,6 +15,7 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **SQL**:SQLite
 - Jupyter Notebook
+- Power BI for visualization
 
 ### Highlights
 - Actor/director performance ranked using SQL window functions
