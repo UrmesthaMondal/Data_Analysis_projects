@@ -25,7 +25,8 @@ The final two columns ending with “_adj” show the budget and revenue of the 
 
 
    ###### Dashboard Preview
-   ![Dashboard](https://github.com/user-attachments/assets/d6e7b53b-a87a-4af1-af2c-d81dfaa39f03)
+   ![Dashboard](https://github.com/user-attachments/assets/6bb5b606-c28e-43ba-bc82-545ba088ba44)
+
 
    #### Dataset
 
