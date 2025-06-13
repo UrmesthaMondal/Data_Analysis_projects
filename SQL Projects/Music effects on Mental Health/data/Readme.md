@@ -5,8 +5,10 @@ This dataset is a research project that aims to uncover connections between peop
 This project explores the relationship between music preferences, listening habits, and mental health indicators such as anxiety and depression using a global survey dataset
 
 #### Tools used:
-- **Python**:Pandas,Matplotlib,Seaborn
-- 
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn
+- **SQL**:SQLite
+- Jupyter Notebook
+- **Power BI** for visualization
 
 ### Dataset Columns
 - **Timestamp**: Date and time when form was submitted
