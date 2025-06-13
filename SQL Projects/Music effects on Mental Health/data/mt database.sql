@@ -1,0 +1,38 @@
+CREATE DATABASE MT;
+USE MT;
+CREATE TABLE mxmh_survey_results (
+    Timestamp TEXT,
+    Age FLOAT,
+    Primary_streaming_service TEXT,
+    Hours_per_day FLOAT,
+    While_working TEXT,
+    Instrumentalist TEXT,
+    Composer TEXT,
+    Fav_genre TEXT,
+    Exploratory TEXT,
+    Foreign_languages TEXT,
+    BPM FLOAT,
+    Frequency_Classical TEXT,
+    Frequency_Country TEXT,
+    Frequency_EDM TEXT,
+    Frequency_Folk TEXT,
+    Frequency_Gospel TEXT,
+    Frequency_Hip_hop TEXT,
+    Frequency_Jazz TEXT,
+    Frequency_K_pop TEXT,
+    Frequency_Latin TEXT,
+    Frequency_Lofi TEXT,
+    Frequency_Metal TEXT,
+    Frequency_Pop TEXT,
+    Frequency_RnB TEXT,
+    Frequency_Rap TEXT,
+    Frequency_Rock TEXT,
+    Frequency_Video_game_music TEXT,
+    Anxiety FLOAT,
+    Depression FLOAT,
+    Insomnia FLOAT,
+    OCD FLOAT,
+    Music_effects TEXT,
+    Permissions TEXT
+);
+ 
