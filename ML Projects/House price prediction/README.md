@@ -6,10 +6,8 @@ The dataset contains detailed information about each house, including physical a
 
 ### Steps involved
 - **Exploratory Data Analysis (EDA)**
-  
-       - Handled missing values and outliers
-
-       - Visualized data distributions and feature correlations
+  - Handled missing values and outliers
+  - Visualized data distributions and feature correlations
 
 - **Data Preprocessing**
 
