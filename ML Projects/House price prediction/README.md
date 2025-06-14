@@ -20,8 +20,8 @@ The dataset contains detailed information about each house, including physical a
   - Compared performance metrics (MAE, RMSE, R²)
 
 - **Model Evaluation**
- - Identified the best model based on accuracy and generalization
- - Visualized actual vs predicted prices
+  - Identified the best model based on accuracy and generalization
+  - Visualized actual vs predicted prices
 
 
 ### Data description
