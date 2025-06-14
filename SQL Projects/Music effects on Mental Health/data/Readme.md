@@ -45,5 +45,10 @@ This project explores the relationship between music preferences, listening habi
 - **Music effects**: Does music improve/worsen respondent's mental health conditions?
 - **Permissions**: Permissions to publicize data
 
+### Dashboard Overview
+
+![Dashboard](https://github.com/user-attachments/assets/521cd82f-cfb7-4c81-a787-bcdfaae7f3a9)
+
+
 ### Dataset
 [MT Dataset on Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
