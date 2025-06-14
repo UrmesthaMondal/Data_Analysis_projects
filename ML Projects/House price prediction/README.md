@@ -6,17 +6,18 @@ The dataset contains detailed information about each house, including physical a
 
 ### Steps involved
 - **Exploratory Data Analysis (EDA)**
+  
        - Handled missing values and outliers
 
        - Visualized data distributions and feature correlations
 
 - **Data Preprocessing**
 
-          - Encoded categorical variables
+  - Encoded categorical variables
 
-            - Scaled numerical features
+  - Scaled numerical features
 
-            - Split data into training and test sets
+   - Split data into training and test sets
 
 - **Model Building**
 
