@@ -10,26 +10,18 @@ The dataset contains detailed information about each house, including physical a
   - Visualized data distributions and feature correlations
 
 - **Data Preprocessing**
-
-  - Encoded categorical variables
-
-  - Scaled numerical features
-
-   - Split data into training and test sets
+ - Encoded categorical variables
+ - Scaled numerical features
+ - Split data into training and test sets
 
 - **Model Building**
-
-    - Trained various regression models: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, etc.
-
-      - Used cross-validation for model evaluation
-
-     - Compared performance metrics (MAE, RMSE, R²)
+ - Trained various regression models: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, etc.
+ - Used cross-validation for model evaluation
+ - Compared performance metrics (MAE, RMSE, R²)
 
 - **Model Evaluation**
-
-      - Identified the best model based on accuracy and generalization
-
-       - Visualized actual vs predicted prices
+- Identified the best model based on accuracy and generalization
+- Visualized actual vs predicted prices
 
 
 ### Data description
