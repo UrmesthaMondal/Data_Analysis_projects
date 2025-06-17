@@ -2,7 +2,7 @@
 The dataset contains detailed information about each house, including physical attributes and location-based features.I have applied machine learning techniques to predict house prices based on various features of residential properties.
 
 #### Tools used:
- Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
+ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook,PowerPoint
 
 ### Steps involved
 - **Exploratory Data Analysis (EDA)**
