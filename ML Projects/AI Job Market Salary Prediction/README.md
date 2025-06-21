@@ -2,7 +2,7 @@
 This dataset contains detailed information about AI and machine learning job positions, salaries, and market trends across different countries, experience levels, and company sizes. Perfect for data science enthusiasts, career researchers, and market analysts.
 This dataset provides an extensive analysis of the artificial intelligence job market with over 15,000 real job postings collected from major job platforms worldwide. It includes detailed salary information, job requirements, company insights, and geographic trends.
  ## Tools Used:
- - Python(Seaborn,NumPy,Pandas,Matplotlib)
+ - Python(Seaborn,NumPy,Pandas,Matplotlib,Scikit Learn,XGBoost)
  - Jupyter Notebook
 
 #### Key Features
