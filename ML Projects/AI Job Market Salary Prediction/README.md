@@ -5,5 +5,13 @@ This dataset provides an extensive analysis of the artificial intelligence job m
  - Python(Seaborn,NumPy,Pandas,Matplotlib)
  - Jupyter Notebook
 
+#### Key Features
+- 15,000+ job listings from 50+ countries
+- Salary data in multiple currencies (normalized to USD)
+ - Experience level categorization (Entry, Mid, Senior, Executive)
+- Company size impact analysis
+- Remote work trends and patterns
+- Skills demand analysis
+
 ### Dataset Overview:
 [link](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025/data)
